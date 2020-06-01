@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "DisProt blog - welcome"
-date:   2020-06-03 10:03:05 +0200
+date:   2020-06-03 10:00:00 +0200
+published: false
 ---
 [DisProt][disprot-link] is the major repository of manually curated data of intrinsically disordered proteins (IDPs) collected from literature. 
 
@@ -14,7 +15,7 @@ Check also our [new DisProt twitter][disprot-twitter] account!
 
 If there is any topic you would like to see discussed on this blog, or if you have any question, please let us know at our [Feedback page][disprot-feedback].
 
-Written on June 01, 2020 by Federica Quaglia
+Written on June 03, 2020 by Federica Quaglia
 
 [disprot-link]: https://disprot.org/
 [disprot-twitter]: https://twitter.com/DisProt_db
