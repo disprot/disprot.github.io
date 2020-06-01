@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DisProt blog - welcome"
-date:   2020-06-01 20:03:05 +0200
+date:   2020-06-03 10:03:05 +0200
 ---
 [DisProt][disprot-link] is the major repository of manually curated data of intrinsically disordered proteins (IDPs) collected from literature. 
 
