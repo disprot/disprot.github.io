@@ -20,7 +20,7 @@
 
 title: DisProt blog
 description: >- # this means to ignore newlines until "baseurl:"
-  News and updates around the Database of Protein Disorder (DisProt)
+  News and updates on the Database of Protein Disorder (DisProt)
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: disprot_db
