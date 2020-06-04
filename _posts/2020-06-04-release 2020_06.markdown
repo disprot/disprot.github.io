@@ -3,7 +3,7 @@ layout: post
 title:  "DisProt 2020_06 - new viral proteins, updated  home page examples and other entries"
 date:   2020-06-04 07:00:00 +0200
 ---
-The [DisProt][disprot-link] curation team is excited to announce the new release featuring newly added proteins related to SARS-CoV-2 as a response to the global pandemic, as well as revised and updated home page examples and previously published entries in an effort to continuously improve curation accuracy and provide up-to-date annotations. As a part of this effort, we have added a total of 252 new pieces of evidence, that have now been made available to the community.
+<b>The [DisProt][disprot-link] curation team is excited to announce the new release featuring newly added proteins related to SARS-CoV-2 as a response to the global pandemic, as well as revised and updated home page examples and previously published entries in an effort to continuously improve curation accuracy and provide up-to-date annotations. As a part of this effort, we have added a total of 252 new pieces of evidence, that have now been made available to the community.</b>
 
 <small><i> Written on June 04, 2020 by Federica Quaglia, Bálint Mészáros and Lucia Beatriz Chemes.  </i></small>
 
@@ -43,7 +43,9 @@ More than 70 new pieces of evidence have been added, moreover we also added stat
 We hope you find this release useful! If you spot any issue, please let us know at our Feedback page.
 
 [1]	N. E. Davey, G. Travé, and T. J. Gibson, “How viruses hijack cell regulation,” Trends Biochem. Sci., vol. 36, no. 3, pp. 159–169, Mar. 2011, doi: [10.1016/j.tibs.2010.10.002][pub-1]
+
 [2]	B. Mészáros et al., “Short linear motif candidates in the cell entry system used by SARS-CoV-2 and their potential therapeutic implications,” arXivv, Apr. 21, 2020. doi: [https://arxiv.org/abs/2004.10274][pub-2]
+
 [3]	N. E. Clarke, M. J. Fisher, K. E. Porter, D. W. Lambert, and A. J. Turner, “Angiotensin converting enzyme (ACE) and ACE2 bind integrins and ACE2 regulates integrin signalling,” PLoS One, vol. 7, no. 4, p. e34747, Apr. 2012, doi: [10.1371/journal.pone.0034747][pub-3]
 
 [disprot-link]: https://disprot.org/
