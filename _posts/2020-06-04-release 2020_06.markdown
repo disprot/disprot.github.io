@@ -1,0 +1,68 @@
+---
+layout: post
+title:  "DisProt 2020_06 - new viral proteins, updated  home page examples and other entries"
+date:   2020-06-03 07:00:00 +0200
+---
+The [DisProt][disprot-link] curation team is excited to announce the new release featuring newly added proteins related to SARS-CoV-2 as a response to the global pandemic, as well as revised and updated home page examples and previously published entries in an effort to continuously improve curation accuracy and provide up-to-date annotations. As a part of this effort, we have added a total of 252 new pieces of evidence, that have now been made available to the community.
+
+<small><i> Written on June 04, 2020 by Federica Quaglia, Bálint Mészáros and Lucia Beatriz Chemes.  </i></small>
+
+<h2>Viral proteins - what we have done: </h2>
+Structural disorder has been shown to be vastly important for viral functions, mostly due to the interactions these regions mediate [1]. In order to aid the assessment of the role of disordered protein regions and their functions in SARS-CoV-2 infections, we  added, expanded and revised several annotations on intrinsically disordered regions (IDRs), transitions and functions that participate in the SARS-CoV-2 entry system, adding annotations for proteins on both the viral and host side. As a part of this effort, we curated IDRs and post translational modifications present in the intracellular disordered tail of the SARS-CoV-2 receptor ACE2, and IDRs present in the cytosolic tails of integrins, which are candidate SARS-CoV-2 co-receptors [2]. The role of integrins in SARS-CoV-2 entry as co-receptors is supported by the native interaction between ACE2 and integrins [3], as well as the recent verification of the interaction between  the Spike protein and several integrins (https://www.nottinghamcrg.info/). Disorder is key in the virus-receptor recognition mechanism, as a large part of the ACE2 interacting (RBM) region of Spike is flexible and disordered in its unbound state, becoming ordered upon ACE2 binding, a unique feature of SARS-CoV-2 Spike within the beta coronavirus genus. Moreover, this flexible region is also the main target of SARS-CoV-2 specific neutralizing antibodies. Disorder is also prominent at the cleavage and glycosylation sites of Spike. On the host side, the functions encoded in the disordered regions of ACE2 and beta integrins may play a central role in transmitting signals that initiate the process of receptor mediated endocytosis and viral fusion [2]. Finally, we have also revised our annotation of IDRs and their functions within the SARS-CoV nucleoprotein, where intrinsically disordered regions play key roles in RNA binding and ribonucleocapsid assembly. Taken together, these data highlight how intrinsically disordered regions are involved in the receptor recognition and entry mechanisms used by SARS-CoV-2, as well as in the virion assembly process. As a part of this effort, we have added 99 new pieces of evidence, that have now been made available to the community.
+
+<b>New SARS-CoV-2 entries in DisProt:</b>
+ - SARS-CoV-2 Spike glycoprotein - [DP02772][disprot-DP02772]
+ 
+To aid comparative studies, we also extended our analysis to the Spike glycoproteins of two closely related beta coronaviruses that caused outbreaks of severe respiratory illnesses in human: MERS-CoV and SARS-CoV.
+ - SARS-CoV Spike glycoprotein - [DP02879][disprot-DP02879]
+ - MERS-CoV Spike glycoprotein - [DP02880][disprot-DP02880]
+ - SARS-CoV Nucleoprotein - [DP00948][disprot-DP00948]
+
+<b>Entries describing IDRs in human host proteins:</b>
+ - Angiotensin converting enzyme 2 (ACE2) - [DP02854][disprot-DP02854]
+ - Integrin β1 - [DP01748][disprot-DP01748]
+ - Integrin β3 - [DP01842][disprot-DP01842]
+
+<h2>Home page examples - what we have done:  </h2>
+Disorder annotations for the two home page examples, human p53 and beta catenin 1 (CTNNB1), have been thoroughly revised and updated with results from the most up-to-date and relevant publications. In this new release, human CTNNB1 has replaced mouse CTNNB1. We annotated 60 new evidence of disorder aspects from more than 25 publications, with a strong focus on binding partners, on regions undergoing folding-upon-binding, the post-translational modifications regulating these processes, and on the functions associated to the intrinsically disordered regions of p53 and beta-catenin 1.
+ - human P53 - [DP00086][disprot-DP00086]
+ - human CTNNB1 - [DP01119][disprot-DP01119]
+
+Go and have a look at them! 
+
+<h2>Reviewing and updating well-known IDPs - what we have done: </h2>
+One of our main goals at DisProt is to continuously review and update entries of intrinsically disordered proteins in light of new results being published, to ensure that we provide the most comprehensive annotations. In this release we have been reviewing and updating the following IDPs:
+ - HMGA1 (human) - [DP00040][disprot-DP00040]
+ - E-cadherin (from mouse and Drosophila) - [DP00159][disprot-DP00159] and [DP00269][disprot-DP00269]
+ - Antitermination protein N (from Bacteriophage lambda) - [DP00005][disprot-DP00005]
+ - Synaptobrevin homolog 1 and 2 (from yeast) - [DP00113][disprot-DP00113]and [DP01502][disprot-DP01502]
+ - α-synuclein (human) - [DP00070][disprot-DP00070]
+
+More than 70 new pieces of evidence have been added, moreover we also added statements to support disorder aspects annotated in the previous releases of DisProt.
+
+We hope you find this release useful! If you spot any issue, please let us know at our Feedback page.
+
+[1]	N. E. Davey, G. Travé, and T. J. Gibson, “How viruses hijack cell regulation,” Trends Biochem. Sci., vol. 36, no. 3, pp. 159–169, Mar. 2011, doi: [10.1016/j.tibs.2010.10.002][pub-1]
+[2]	B. Mészáros et al., “Short linear motif candidates in the cell entry system used by SARS-CoV-2 and their potential therapeutic implications,” arXivv, Apr. 21, 2020. doi: [https://arxiv.org/abs/2004.10274][pub-2]
+[3]	N. E. Clarke, M. J. Fisher, K. E. Porter, D. W. Lambert, and A. J. Turner, “Angiotensin converting enzyme (ACE) and ACE2 bind integrins and ACE2 regulates integrin signalling,” PLoS One, vol. 7, no. 4, p. e34747, Apr. 2012, doi: [10.1371/journal.pone.0034747][pub-3]
+
+[disprot-link]: https://disprot.org/
+[disprot-DP02772]: https://disprot.org/DP02772
+[disprot-DP02879]: https://disprot.org/DP02879
+[disprot-DP02880]: https://disprot.org/DP02880
+[disprot-DP00948]: https://disprot.org/DP00948
+[disprot-DP02854]: https://disprot.org/DP02854
+[disprot-DP01748]: https://disprot.org/DP01748
+[disprot-DP01842]: https://disprot.org/DP01842
+[disprot-DP00086]: https://disprot.org/DP00086
+[disprot-DP01119]: https://disprot.org/DP01119
+[disprot-DP00040]: https://disprot.org/DP00040
+[disprot-DP00159]: https://disprot.org/DP00159
+[disprot-DP00269]: https://disprot.org/DP00269
+[disprot-DP00005]: https://disprot.org/DP00005
+[disprot-DP00113]: https://disprot.org/DP00113
+[disprot-DP01502]: https://disprot.org/DP01502
+[disprot-DP00070]: https://disprot.org/DP00070
+[pub-1]: https://doi.org/10.1016/j.tibs.2010.10.002
+[pub-2]: https://arxiv.org/abs/2004.10274
+[pub-3]: https://doi.org/10.1371/journal.pone.0034747
