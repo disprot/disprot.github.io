@@ -5,7 +5,6 @@ date:   2020-06-03 07:00:00 +0200
 author: "Federica Quaglia"
 headline: "This blog has been created to advertise updates and narratives on each new release of DisProt."
 ---
-<b>This blog has been created to advertise updates and narratives on each new release of DisProt. <b>
 
 [DisProt][disprot-link] is the major repository of manually curated data of intrinsically disordered proteins (IDPs) and intrinsically disordered regions (IDRs). This blog has been created to advertise updates , narratives on each new release of DisProt and much more!
 
